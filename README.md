@@ -1,2 +1,2 @@
-# react-infinite-test
+# type-2
 Created with CodeSandbox
